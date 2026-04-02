@@ -26,7 +26,7 @@ variable "ec2_tags" {
 	Name 		    = "Test Terraform"
 	Project             = "Special Projects"
     	Environment         = "Development"
-    	Contact             = "infra@xyz.com"
+    	Contact             = "infra@yahoo.com"
 }
 }
 
